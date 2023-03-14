@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
           onPressed: () {
             Get.to(BottomNavigationMaterial3());
           },
-          child: const Text('Go to Bottom Navigation Material 3'),
+          child: const Text('Go to Bottom Navigation Material 3 🤦‍♀️🎶🎶🎶🎶'),
         ),
       ),
     );
